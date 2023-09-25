@@ -1,23 +1,4 @@
-# Turing Machine for Binary Palindrome
-
- ## Índice
--  [Objetivo](#id01)
--  [O que é um palíndromo?](#id02)
--  [Uma Máquina de Turing é uma 7-tupla?](#id03)
--  [Alfabeto](#id04)
--  [Diagrama de Estados](#id05)
--  [Função de Transição](#id06)
--  [Referências](#id07)
-
-## Objetivo:<a name="id01"></a>
-
-O seguinte projeto proposto visa desenvolver um protótipo de Máquina de Turing para resolução de um problema. Com base nisso, desenvolvemos uma Máquina de Turing para validar palíndromos de números binários.
-
-## O que é um palíndromo?<a name="id02"></a>
-
-É uma palavra, frase ou qualquer outra sequência de unidades que tenha a propriedade de poder ser lida tanto da direita para a esquerda como da esquerda para a direita.
-
-Exemplos: "radar", "mirim", "A torre da derrota", "11011", etc..
+# Máquina de Turing
 
 ## Uma Máquina de Turing é uma 7-tupla?<a name="id03"></a>
 
@@ -50,15 +31,3 @@ Exemplos: "radar", "mirim", "A torre da derrota", "11011", etc..
 ## Função de transição (δ):<a name="id06"></a>
 
 ![tabelafuncao](./assets/table.png)
-
-## Contribuidores
-
-<a href="https://github.com/douglasscaini" ><img width="50" style="border-radius:2em" src="https://avatars0.githubusercontent.com/u/41807133?v=4" alt="douglasscaini"></a>
-
-
-## Referências:<a name="id07"></a>  
-
-1.  [Definição de Palíndromo.](https://pt.wikipedia.org/wiki/Pal%C3%ADndromo)
-2.  [O que é uma Máquina de Turing?](http://www.dainf.ct.utfpr.edu.br/~rdutra/courses/2015-2/tc_aulas/aula9.pdf)
-3.  [Máquina de Turing para Palíndromos.](https://www.youtube.com/watch?v=Ynd5on9g6Q8)
-4.  [Diagrama de estados para Máquina de Turing.](http://www.jflap.org/)
