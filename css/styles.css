@@ -61,3 +61,19 @@ header {
 	text-transform: uppercase;
 	font-family: 'Press Start 2P', cursive;
 }
+#tape-box {
+    position: relative;
+    width: 100%; /* Certifique-se de que o contêiner tem largura suficiente */
+}
+
+.list-group-item {
+    width: 48px; /* Certifique-se de que a largura da célula é consistente */
+    text-align: center;
+}
+
+#head {
+    position: absolute;
+    top: 50px; /* Ajuste conforme necessário */
+    transition: left 0.5s; /* Transição suave */
+}
+

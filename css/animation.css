@@ -1,0 +1,9 @@
+/* animation.css */
+
+@keyframes example {
+  }
+  
+  #head {
+    animation-name: example;
+    animation-duration: 4s;
+  }
